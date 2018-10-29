@@ -5,8 +5,8 @@ public class Multiplier {
 
     // В нашем случае, у нашего класса Умножитель два свойства - множители
     // Пусть оба множителя по-умолчанию будут иметь значение 0
-    int firstNumber = 0; // Первый множитель
-    int secondNumber = 0; // Второй множитель
+    private int firstNumber = 0; // Первый множитель
+    private int secondNumber = 0; // Второй множитель
 
 
     // Пустой конструктор класса Multiplier
