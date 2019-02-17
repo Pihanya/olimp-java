@@ -1,0 +1,6 @@
+# Output directory
+out/*
+
+# IntellIJ project files
+*.iml
+.idea/*
